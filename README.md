@@ -3,7 +3,7 @@
 A classic Tic-Tac-Toe game, played between 2 players locally.
 
 
-My first beginner project; a small exercise I did as part of a Udemy course on C programming.
+My first beginner project; a small exercise I did as part of a course on C programming.
 
 Uses Cartesian coordinates to select features on the board!
 
