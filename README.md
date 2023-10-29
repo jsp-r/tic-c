@@ -13,7 +13,7 @@ Uses Cartesian coordinates to select features on the board!
 
 To select a tile, enter the x-coordinate of desired tile into the first input, followed by the y-coordinate into the second input.
 
-
+```
    0  1  2
 0  .  .  .
 
@@ -30,10 +30,10 @@ Select a y coordinate to place your piece: 0
 1  .  .  .
 
 2  .  .  .
+```
 
 
-
-Use CTRL-C to stop the game at any time.
+Use ```CTRL-C``` to stop the game at any time.
 
 
 ## Contributing
